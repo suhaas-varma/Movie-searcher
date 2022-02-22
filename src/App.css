@@ -1,7 +1,21 @@
 .App {
   text-align: center;
 }
-
+.Search-bar {
+  display: block;
+  width: 100%;
+  font-size: medium;
+  padding-left: 16px;
+  padding-top: 8px;
+}
+.Header {
+  padding-left: 15px;
+  background-color: black;
+  display: block;
+  color: white;
+  font-size: 24;
+  font-style: bold;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
